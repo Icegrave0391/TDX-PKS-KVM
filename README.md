@@ -1,4 +1,8 @@
-# host-build
+# TDX-PKS-KVM
+
+The host Linux/KVM settings with Intel TDX and Intel PKS virtualization support for TD guest confidential VMs (CVMs). 
+
+This is to support a full-functional deployment of our EuroSys'25 paper "Erebor: A Drop-In Sandbox Solution for Private Data Processing in Untrusted Confidential Virtual Machines".
 
 ```bash
 git pull
